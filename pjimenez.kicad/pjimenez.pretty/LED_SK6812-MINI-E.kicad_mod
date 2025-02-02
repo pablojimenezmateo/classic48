@@ -1,0 +1,187 @@
+(footprint "LED_SK6812-MINI-E"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "LED3"
+		(at 0 2.1 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "4d5e8a08-291e-4474-a9b8-3164b6fce5d6")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Value" "YS-SK6812MINI-E"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1f2d4914-1e61-4f1b-a4c7-4d614df1b79b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a8f8dcc-2811-4c23-8ecf-f14ce9a629ff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "30b70c15-d9bd-444a-94b5-4568d43fa926")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2951a64-62b1-493c-b990-64a80d1857c6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.6 -1.4)
+		(end 1.6 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "d006c3c0-4c0e-41c4-9718-012ea674b6e7")
+	)
+	(fp_line
+		(start -1.6 1.4)
+		(end -1.6 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "d9f93b6d-a8bd-472e-b17d-68f7495f6081")
+	)
+	(fp_line
+		(start 1.6 -1.4)
+		(end 1.6 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "1197454a-de76-42bb-89f1-9b80eb230f53")
+	)
+	(fp_line
+		(start 1.6 1.4)
+		(end -1.6 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "9e974f1e-15ba-423f-98bb-e652caf82c7d")
+	)
+	(fp_line
+		(start -1.7 -1.5)
+		(end 1.7 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8b9e5311-bbae-446d-88cf-b660d22f7278")
+	)
+	(fp_line
+		(start -1.7 1.5)
+		(end -1.7 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "edf7f61a-82f6-4d74-a6c6-0ced839253c5")
+	)
+	(fp_line
+		(start 1.7 -1.5)
+		(end 1.7 1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6f7b28a7-ec5c-4cd1-872b-4e252ccecc1f")
+	)
+	(fp_line
+		(start 1.7 1.5)
+		(end -1.7 1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9ed7b6b8-0f0a-4934-af99-f1877ffdbc1b")
+	)
+	(pad "1" smd rect
+		(at -2.55 -0.75)
+		(size 1.7 0.82)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "91bc0f18-b216-4745-b3f9-08fa5764bc09")
+	)
+	(pad "2" smd rect
+		(at -2.55 0.75)
+		(size 1.7 0.82)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "d3e68163-22eb-471b-9e1d-4adf6ad2693e")
+	)
+	(pad "3" smd roundrect
+		(at 2.55 0.75)
+		(size 1.7 0.82)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(roundrect_rratio 0)
+		(chamfer_ratio 0.5)
+		(chamfer bottom_right)
+		(uuid "a0235389-bc9c-4ce5-a913-cd11458ab287")
+	)
+	(pad "4" smd rect
+		(at 2.55 -0.75)
+		(size 1.7 0.82)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "75f1d99f-27ba-4aa4-99b8-86eb9ef32176")
+	)
+	(model "${PJIMENEZ}/pjimenez.models/YS-SK6812MINI-E Soldered.step"
+		(offset
+			(xyz 0 0 -1.9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
