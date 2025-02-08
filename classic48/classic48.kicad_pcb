@@ -687,7 +687,7 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "129b4cee-1257-4de7-aeac-596b9fe5db09")
-		(at 181.925 35.705 180)
+		(at 111 59.8 180)
 		(property "Reference" "LED16"
 			(at 0 2.1 180)
 			(unlocked yes)
@@ -715,7 +715,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fe3f6f7a-1b4e-403f-93b7-43ff045a7d23")
@@ -727,7 +727,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2552d761-e4fe-4e94-bcb8-af5f9d9d04ad")
@@ -739,7 +739,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0a54f421-47c7-479a-85df-5c73efe908de")
@@ -1411,7 +1411,7 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "14b548fc-e2d0-41ec-b55a-def9eebefdb1")
-		(at 181.925 39.825 180)
+		(at 93 59.8 180)
 		(property "Reference" "LED15"
 			(at 0 2.1 180)
 			(unlocked yes)
@@ -1439,7 +1439,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d4785af8-14fb-4e9b-96a7-f8aae141759a")
@@ -1451,7 +1451,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b71e65c9-88c7-4682-bb75-6fc038d6cc18")
@@ -1463,7 +1463,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9a8526bf-4de0-4315-969d-a3616c8305ff")
@@ -1612,7 +1612,7 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "25eba64e-c897-4c67-9885-1e7be4141340")
-		(at 181.925 48.065 180)
+		(at 57 59.8 180)
 		(property "Reference" "LED13"
 			(at 0 2.1 180)
 			(unlocked yes)
@@ -1640,7 +1640,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56e89bb0-036d-4811-bfb7-9a44f98c518f")
@@ -1652,7 +1652,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7af45a23-1ad0-455e-b7b5-b80587d0f32c")
@@ -1664,7 +1664,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a50d4ce-4ce9-4a17-9b10-1bafa53ba2ba")
@@ -2887,7 +2887,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "351af4ff-4040-4ff8-a2ec-ff392f9fba50")
@@ -2899,7 +2899,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dc665fe7-8843-4276-84ee-a5a9fec49566")
@@ -2911,7 +2911,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dfc7d5ce-6887-4539-98a3-ac326287c0de")
@@ -3088,7 +3088,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "02f7e52f-7794-42a4-ab6b-1aaf6eac095b")
@@ -3100,7 +3100,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e6366b97-27c3-430f-b765-a76ccc1f4722")
@@ -3112,7 +3112,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58dd1391-4dd0-4d60-be2a-e547fe6dd70e")
@@ -3261,7 +3261,7 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "3f4578ae-6987-4848-80a5-cbf6d1934b4c")
-		(at 181.925 31.585 180)
+		(at 129 59.8 180)
 		(property "Reference" "LED17"
 			(at 0 2.1 180)
 			(unlocked yes)
@@ -3289,7 +3289,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "03523e2a-bc38-40d0-bca4-a7e68ec7501b")
@@ -3301,7 +3301,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "939d0c1a-0a55-4053-8390-27ecd4b17eba")
@@ -3313,7 +3313,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c000ee50-5f3c-4979-ba87-639897660c66")
@@ -3462,9 +3462,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "3fb4298a-de87-42c5-a95f-4055c5156ba8")
-		(at 166.275 47.975 180)
+		(at 111 42.8)
 		(property "Reference" "LED9"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "f741376d-e085-4395-81df-6f1178bf2d04")
@@ -3477,7 +3477,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3530,24 +3530,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "78d268bf-c92a-442f-aab5-891c92a1eae6")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "875e295f-ee3c-4f53-9330-27e603b784f2")
+			(uuid "cea6e716-f6e5-44d6-b8f2-e2d27cc87941")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -3560,34 +3550,34 @@
 			(uuid "bdb3c04e-aa76-4ecd-944a-5bf7e48d15b4")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "cea6e716-f6e5-44d6-b8f2-e2d27cc87941")
+			(uuid "875e295f-ee3c-4f53-9330-27e603b784f2")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "78d268bf-c92a-442f-aab5-891c92a1eae6")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "9b177e47-88dc-455d-8851-39ce28ac8e53")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "a39b6a24-ec2e-43e8-a9bb-a3e9138ccbee")
+			(uuid "71d75a39-9f0e-4955-984f-192ba8f383d7")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -3600,17 +3590,27 @@
 			(uuid "7743be63-dcfa-461d-b70f-ab4f6fe8520a")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "71d75a39-9f0e-4955-984f-192ba8f383d7")
+			(uuid "a39b6a24-ec2e-43e8-a9bb-a3e9138ccbee")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "9b177e47-88dc-455d-8851-39ce28ac8e53")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -3619,7 +3619,7 @@
 			(uuid "272460ef-73b6-4f6d-b034-ee211ad39736")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 59 "Net-(LED10-DIN)")
@@ -3628,7 +3628,7 @@
 			(uuid "ea9e72cd-b371-487d-bc74-cce266b1c5d3")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -3640,7 +3640,7 @@
 			(uuid "589c0441-d718-4076-bbf9-8b839b4ebcae")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 58 "Net-(LED8-DOUT)")
@@ -3663,7 +3663,7 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "4861cf30-b3c0-46d9-b598-c0e65a8a96fe")
-		(at 181.925 43.945 180)
+		(at 75 59.8 180)
 		(property "Reference" "LED14"
 			(at 0 2.1 180)
 			(unlocked yes)
@@ -3691,7 +3691,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5911e8a3-fc2f-4255-87cb-34c818886f6e")
@@ -3703,7 +3703,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "586ceba9-67da-4ad0-b233-e14a7ff39fa2")
@@ -3715,7 +3715,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c526160d-81c2-4e02-a9c0-28c77d03d57e")
@@ -4938,7 +4938,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "984bc45d-6bc4-4788-8dee-6a2a85431427")
@@ -4950,7 +4950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c0f58724-4a74-42d7-90c2-5a32a604f761")
@@ -4962,7 +4962,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8722011a-eb46-4aca-b131-d4ff1415eafe")
@@ -6435,7 +6435,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79453b01-7772-49a1-aa26-1e9df482f59c")
@@ -6447,7 +6447,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "08263431-f464-4a31-85d1-cb18e20d4292")
@@ -6459,7 +6459,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6fda7710-d230-4778-965a-4aa51dae8646")
@@ -6608,9 +6608,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "6ac02db0-6d4f-42a5-9cb0-59d1433cea55")
-		(at 174.125 56.305 180)
+		(at 147 76.8)
 		(property "Reference" "LED19"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "b2cd795f-d0b1-48fc-afb3-6742ae2fd428")
@@ -6623,7 +6623,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6676,24 +6676,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "46df3656-7a26-4e3b-9e57-3a0d8954955e")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "e9b0370b-6dab-4f78-bc88-7e9b8694d53c")
+			(uuid "7b8bc414-1643-4774-bc44-0faad648d881")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -6706,34 +6696,34 @@
 			(uuid "1dd9dd36-d4fd-4ad0-84be-a1047324e686")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "7b8bc414-1643-4774-bc44-0faad648d881")
+			(uuid "e9b0370b-6dab-4f78-bc88-7e9b8694d53c")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "46df3656-7a26-4e3b-9e57-3a0d8954955e")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "eaada8fb-b325-46ab-a830-23094492b2ce")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "16515e1d-9248-40a8-a13a-eb9b32a89ada")
+			(uuid "bee2a816-c9dd-4ee2-9e06-6799208a3656")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -6746,17 +6736,27 @@
 			(uuid "727dad44-d77f-453b-9bde-ed7d4fd832f2")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "bee2a816-c9dd-4ee2-9e06-6799208a3656")
+			(uuid "16515e1d-9248-40a8-a13a-eb9b32a89ada")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "eaada8fb-b325-46ab-a830-23094492b2ce")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -6765,7 +6765,7 @@
 			(uuid "5dbac1ba-68c8-44af-86f2-95325af0e3d6")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 69 "Net-(LED19-DOUT)")
@@ -6774,7 +6774,7 @@
 			(uuid "7fda6452-6a8e-4e2c-b90c-e4c88d3fabdd")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -6786,7 +6786,7 @@
 			(uuid "3d74dd6d-00d2-4dd4-8a2b-e428d65fc7fe")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 68 "Net-(LED18-DOUT)")
@@ -6809,9 +6809,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "6f38e075-c802-43ee-bdeb-ddee02533c57")
-		(at 174.125 39.825 180)
+		(at 75 76.8)
 		(property "Reference" "LED23"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "76fbd01d-02b8-42d2-af1e-2dbc58267667")
@@ -6824,7 +6824,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -6877,24 +6877,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "47d53b50-74a1-4eb4-bceb-559ccb944e4c")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "917ad462-949b-4cf5-a9cf-60e39793c350")
+			(uuid "e3fe6ed8-90e9-4c03-a013-9569b82e757f")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -6907,34 +6897,34 @@
 			(uuid "fc8d7d14-34f1-48d1-a0b8-6d80607a36c5")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "e3fe6ed8-90e9-4c03-a013-9569b82e757f")
+			(uuid "917ad462-949b-4cf5-a9cf-60e39793c350")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "47d53b50-74a1-4eb4-bceb-559ccb944e4c")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "91da19e2-5927-4f63-809f-edd0b0f29443")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "981043f0-948d-494d-a0d5-0723694842d1")
+			(uuid "5b6c579b-a3d8-4bf9-a808-8b3d90f8f25a")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -6947,17 +6937,27 @@
 			(uuid "95ef5a95-3a4e-4fa5-ab97-f60b21ad47e2")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "5b6c579b-a3d8-4bf9-a808-8b3d90f8f25a")
+			(uuid "981043f0-948d-494d-a0d5-0723694842d1")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "91da19e2-5927-4f63-809f-edd0b0f29443")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -6966,7 +6966,7 @@
 			(uuid "c0059aba-66d8-4960-b30a-f091a96fe74f")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 73 "Net-(LED23-DOUT)")
@@ -6975,7 +6975,7 @@
 			(uuid "32bae5e5-1d74-4b0e-a9e0-097cd8f3f040")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -6987,7 +6987,7 @@
 			(uuid "1a71fdf7-e258-46d7-9e0c-de0951184e29")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 72 "Net-(LED22-DOUT)")
@@ -7010,9 +7010,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "70ebe295-3719-46ab-8c3b-bd3f08139cf2")
-		(at 174.125 52.185 180)
+		(at 129 76.8)
 		(property "Reference" "LED20"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "272cb45a-5256-4b63-9ebe-9186434b8cb4")
@@ -7025,7 +7025,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7078,24 +7078,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "e005a8f7-9500-4b7c-8d7d-579192d97feb")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "80b3c5a4-1fcf-4505-a3dd-62a8c98380dc")
+			(uuid "ed51c21b-2065-45c1-9c93-305694c22b78")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -7108,34 +7098,34 @@
 			(uuid "9a6ddd89-2391-43fd-b7ee-a28d19cf24d1")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "ed51c21b-2065-45c1-9c93-305694c22b78")
+			(uuid "80b3c5a4-1fcf-4505-a3dd-62a8c98380dc")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "e005a8f7-9500-4b7c-8d7d-579192d97feb")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "0951ebd9-49c8-4494-b033-7b59abe6374e")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "cfc95c1a-d541-4943-bddb-bce76f4c3850")
+			(uuid "cb0f2dc4-fb32-42e9-b4ee-3aac04e81d71")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -7148,17 +7138,27 @@
 			(uuid "6f6ee9ef-623b-44b1-a972-5c34b3f6887a")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "cb0f2dc4-fb32-42e9-b4ee-3aac04e81d71")
+			(uuid "cfc95c1a-d541-4943-bddb-bce76f4c3850")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "0951ebd9-49c8-4494-b033-7b59abe6374e")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -7167,7 +7167,7 @@
 			(uuid "2cd7ffb3-862a-47f5-8d5b-30c5289baffb")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 70 "Net-(LED20-DOUT)")
@@ -7176,7 +7176,7 @@
 			(uuid "fdd5dbb4-7be4-4fa4-a21d-ccb39ad1c250")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -7188,7 +7188,7 @@
 			(uuid "6e976a4c-1c66-4a8a-961d-09c7342b7896")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 69 "Net-(LED19-DOUT)")
@@ -7239,7 +7239,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "54bbc45b-e35a-43ac-aa48-200cdf56740a")
@@ -7251,7 +7251,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f63ef660-a5e4-4afb-a39e-d49ed7e8196a")
@@ -7263,7 +7263,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "09bea768-685d-475d-b8f7-4931f39f10f1")
@@ -7412,9 +7412,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "896b1e87-b0be-4332-80dd-b10a413b8c42")
-		(at 174.125 48.065 180)
+		(at 111 76.8)
 		(property "Reference" "LED21"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "8ea8ea49-126c-4946-bf4c-5924e5134665")
@@ -7427,7 +7427,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -7480,24 +7480,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "1399be89-5011-4928-bccb-fc0badabde7b")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "861ee1da-0147-4f41-8a2f-e387b6b83cff")
+			(uuid "39aec03d-1de1-4df3-aaf9-c25596656a82")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -7510,34 +7500,34 @@
 			(uuid "199de3ff-b0c0-40ec-8240-9d2987ff7986")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "39aec03d-1de1-4df3-aaf9-c25596656a82")
+			(uuid "861ee1da-0147-4f41-8a2f-e387b6b83cff")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "1399be89-5011-4928-bccb-fc0badabde7b")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "62be835b-ba4e-4f57-8e5a-d9e274f51e1d")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "c59bd801-6ec0-4b91-8b65-a5958f12b070")
+			(uuid "3874310e-39ed-4db6-b1a7-fc830fb00cdc")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -7550,17 +7540,27 @@
 			(uuid "7901bb32-87f5-4317-83df-5b8596873acf")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "3874310e-39ed-4db6-b1a7-fc830fb00cdc")
+			(uuid "c59bd801-6ec0-4b91-8b65-a5958f12b070")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "62be835b-ba4e-4f57-8e5a-d9e274f51e1d")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -7569,7 +7569,7 @@
 			(uuid "f9d04ece-86cb-4da8-89f1-bbf65f61b557")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 71 "Net-(LED21-DOUT)")
@@ -7578,7 +7578,7 @@
 			(uuid "8d75f0f3-c479-4724-8108-68ce9828557d")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -7590,7 +7590,7 @@
 			(uuid "1cad464b-1588-4e28-9279-f12f623c6be3")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 70 "Net-(LED20-DOUT)")
@@ -8136,9 +8136,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "92d56275-f347-479f-b334-9310226cffd9")
-		(at 181.925 60.425 180)
+		(at 93 42.8)
 		(property "Reference" "LED10"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "22376d70-8412-4124-a818-ea3bf5a49567")
@@ -8151,7 +8151,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -8204,24 +8204,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "39f1c2a9-724c-4c9c-85ef-4fdb1c1609ed")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "3775c35d-4559-437e-80d4-7f7c450572dc")
+			(uuid "44fa434a-2c6e-4a5e-acf3-69e591dbccb7")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -8234,34 +8224,34 @@
 			(uuid "fe4e6c63-6093-4a71-8fb7-6513b252509b")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "44fa434a-2c6e-4a5e-acf3-69e591dbccb7")
+			(uuid "3775c35d-4559-437e-80d4-7f7c450572dc")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "39f1c2a9-724c-4c9c-85ef-4fdb1c1609ed")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "598c8f84-b68b-4b86-9bad-6cdcef34196c")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "41691687-d729-4201-841f-80eb96b584f0")
+			(uuid "4c8b4c0f-4e97-47ec-8d04-aa1a7a0ae945")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -8274,17 +8264,27 @@
 			(uuid "13aa9764-18b6-48d9-9dcb-3713a29fb06b")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "4c8b4c0f-4e97-47ec-8d04-aa1a7a0ae945")
+			(uuid "41691687-d729-4201-841f-80eb96b584f0")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "598c8f84-b68b-4b86-9bad-6cdcef34196c")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -8293,7 +8293,7 @@
 			(uuid "935f8dbb-955a-44f9-9f91-02c2e969401e")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 60 "Net-(LED10-DOUT)")
@@ -8302,7 +8302,7 @@
 			(uuid "503ddf9a-6173-4aba-bcf2-8af8b71970f1")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -8314,7 +8314,7 @@
 			(uuid "b194d6d3-50aa-4db6-b50f-55ac121f1ece")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 59 "Net-(LED10-DIN)")
@@ -9383,9 +9383,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "a53c1f8a-a0ba-4084-9d1b-b043e2c2baa9")
-		(at 181.925 56.305 180)
+		(at 75 42.8)
 		(property "Reference" "LED11"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "a1fd1dd1-89fa-4870-8605-9288e740e7dc")
@@ -9398,7 +9398,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -9451,24 +9451,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "6f4ec74a-0921-41ab-8d51-e06e45bf422e")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "c7a6fa44-47f6-4e33-8f5b-aa48630cad9b")
+			(uuid "f863a147-8bd5-435b-90b7-ec69516487a2")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -9481,34 +9471,34 @@
 			(uuid "9c08ba18-3545-441e-bb70-d57668c1906a")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "f863a147-8bd5-435b-90b7-ec69516487a2")
+			(uuid "c7a6fa44-47f6-4e33-8f5b-aa48630cad9b")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "6f4ec74a-0921-41ab-8d51-e06e45bf422e")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "2b5acb22-d864-4843-b26b-60f254a53584")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "9db77043-c714-4bec-a4f6-2aef507fc103")
+			(uuid "a11930e6-fa8d-4b99-a2b7-166b063cafe7")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -9521,17 +9511,27 @@
 			(uuid "8b0f34ab-4f70-4857-8e80-7226aa9dfb51")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "a11930e6-fa8d-4b99-a2b7-166b063cafe7")
+			(uuid "9db77043-c714-4bec-a4f6-2aef507fc103")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "2b5acb22-d864-4843-b26b-60f254a53584")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -9540,7 +9540,7 @@
 			(uuid "17ff9734-2b00-4de5-9912-b5f95db0276c")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 61 "Net-(LED11-DOUT)")
@@ -9549,7 +9549,7 @@
 			(uuid "89a3b388-93ef-4ec4-9774-7aca472d63a8")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -9561,7 +9561,7 @@
 			(uuid "91e1e1a6-eeba-486c-abdc-11397406f4b6")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 60 "Net-(LED10-DOUT)")
@@ -11153,9 +11153,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "b57ccf5f-ab68-4e0c-aeb5-e37291edd310")
-		(at 174.125 35.705 180)
+		(at 57 76.8)
 		(property "Reference" "LED24"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "31fca62c-d165-47cf-be0d-bdee25a0ab7a")
@@ -11168,7 +11168,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -11221,24 +11221,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "ab4d09e2-0290-4b6f-8a27-424ab717bb7f")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "acd1f5c7-1ea0-4814-862e-6f7bfd24697e")
+			(uuid "5c5142a2-797c-46cf-b591-4058162b3fb4")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -11251,34 +11241,34 @@
 			(uuid "5965cd60-4edf-4370-86c4-feaf6075a945")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "5c5142a2-797c-46cf-b591-4058162b3fb4")
+			(uuid "acd1f5c7-1ea0-4814-862e-6f7bfd24697e")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "ab4d09e2-0290-4b6f-8a27-424ab717bb7f")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "8e735429-9731-4b18-9dc3-b3c155fe1fdf")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "acdc0f72-1847-46ee-9b70-81087e4848ee")
+			(uuid "38554e87-21c0-4ca2-b052-17aabc66c9ad")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -11291,17 +11281,27 @@
 			(uuid "c89c7dfe-1980-4ea2-935d-4e60df68fbad")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "38554e87-21c0-4ca2-b052-17aabc66c9ad")
+			(uuid "acdc0f72-1847-46ee-9b70-81087e4848ee")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "8e735429-9731-4b18-9dc3-b3c155fe1fdf")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -11310,7 +11310,7 @@
 			(uuid "d71966fa-4c59-48c3-af22-937497fec0df")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 74 "unconnected-(LED24-DOUT-Pad2)")
@@ -11319,7 +11319,7 @@
 			(uuid "2a996175-9832-4ecd-a2f1-c6a8aca0578c")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -11331,7 +11331,7 @@
 			(uuid "c73549d7-30eb-4ffd-84c0-ad93d3ed4bcd")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 73 "Net-(LED23-DOUT)")
@@ -12428,7 +12428,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f0ff44c3-7dd9-4fe1-a5f7-04d7bb4fe392")
@@ -12440,7 +12440,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "38635294-0519-498f-9987-cf27892b4315")
@@ -12452,7 +12452,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "365929e2-4698-4e7e-998e-7c6b3488b805")
@@ -13124,9 +13124,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "c222e179-010a-49a1-a5ab-4a356ac3e161")
-		(at 166.275 52.095 180)
+		(at 129 42.8)
 		(property "Reference" "LED8"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "cd06acd7-068a-4451-8377-2e68de1732eb")
@@ -13139,7 +13139,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -13192,24 +13192,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "2f102613-e999-4e7f-9864-399431e32858")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "d07b4268-d659-425d-a4c4-97b6d5fc8dc6")
+			(uuid "5aea3fd1-5141-4ac9-890e-8fd5cbe8ba17")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -13222,34 +13212,34 @@
 			(uuid "5abdaf56-3362-4bfb-b60b-0a35f01889c0")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "5aea3fd1-5141-4ac9-890e-8fd5cbe8ba17")
+			(uuid "d07b4268-d659-425d-a4c4-97b6d5fc8dc6")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "2f102613-e999-4e7f-9864-399431e32858")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "5853367b-6f2d-4786-88ef-f3f573fbc8bb")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "55b23c95-46e4-4fd6-945c-cceaa695050c")
+			(uuid "a2797ad0-c83d-4216-ab69-882340d0620d")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -13262,17 +13252,27 @@
 			(uuid "07bd32b9-d282-44c8-935b-0a2ad4a6a145")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "a2797ad0-c83d-4216-ab69-882340d0620d")
+			(uuid "55b23c95-46e4-4fd6-945c-cceaa695050c")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "5853367b-6f2d-4786-88ef-f3f573fbc8bb")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -13281,7 +13281,7 @@
 			(uuid "123500c6-3394-4579-95e3-6ab84809c2a7")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 58 "Net-(LED8-DOUT)")
@@ -13290,7 +13290,7 @@
 			(uuid "cf7ab4a5-6914-4820-bf3e-ef7a080137f2")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -13302,7 +13302,7 @@
 			(uuid "78717f8b-e0dc-4d96-9622-6df4b381a11c")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 57 "Net-(LED7-DOUT)")
@@ -14894,7 +14894,7 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "ceec9131-b6d0-40e3-870a-ea7b03bae820")
-		(at 174.125 60.425 180)
+		(at 147 59.8 180)
 		(property "Reference" "LED18"
 			(at 0 2.1 180)
 			(unlocked yes)
@@ -14922,7 +14922,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "60e11214-29de-4f19-89ed-644abfd9eca5")
@@ -14934,7 +14934,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "94bd2c0c-4ff3-4634-b6fe-e48935712bef")
@@ -14946,7 +14946,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b642cbb4-4dc6-4887-a3f6-8e0ab704fdb5")
@@ -15123,7 +15123,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95468e18-61ce-4b85-9b7e-76f07d429e0b")
@@ -15135,7 +15135,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "93a5e57b-2b60-4842-bbb8-875a7c121d5f")
@@ -15147,7 +15147,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "20b40330-5eb3-4c05-ab83-789664a6e45d")
@@ -15847,7 +15847,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:LED_SK6812-MINI-E"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1d446307-85ca-43e7-b71d-26556d9bcb4a")
@@ -15859,7 +15859,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6cb7b4c2-735d-44e0-93ca-9a6ac8b10495")
@@ -15871,7 +15871,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e10880b1-fb46-4004-b9d7-52e6a6ea9b59")
@@ -16020,9 +16020,9 @@
 	(footprint "pjimenez:LED_SK6812-MINI-E"
 		(layer "F.Cu")
 		(uuid "ea7dd8e8-1e3c-4c3f-9135-ab4df963ebc0")
-		(at 174.125 43.945 180)
+		(at 93 76.8)
 		(property "Reference" "LED22"
-			(at 0 2.1 180)
+			(at 0 2.1 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "62f29f13-8f40-4315-b2c0-440df5001bbd")
@@ -16035,7 +16035,7 @@
 			)
 		)
 		(property "Value" "LED_SK6812MINI-E"
-			(at 0 -0.5 180)
+			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
@@ -16088,24 +16088,14 @@
 		(sheetfile "classic48.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.6 1.4)
-			(end -1.6 1.4)
+			(start -1.6 -1.4)
+			(end 1.6 -1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "ea21db23-84f9-4641-bf07-d8452b2aa3c1")
-		)
-		(fp_line
-			(start 1.6 -1.4)
-			(end 1.6 1.4)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Cmts.User")
-			(uuid "8fe425a4-4d84-45a2-a941-9fbc91154da4")
+			(uuid "deac8b93-832c-4f51-bca7-fdc6abdb5420")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -16118,34 +16108,34 @@
 			(uuid "cab0708f-bb3e-478b-8a3e-a0e8f6cdf82b")
 		)
 		(fp_line
-			(start -1.6 -1.4)
-			(end 1.6 -1.4)
+			(start 1.6 -1.4)
+			(end 1.6 1.4)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Cmts.User")
-			(uuid "deac8b93-832c-4f51-bca7-fdc6abdb5420")
+			(uuid "8fe425a4-4d84-45a2-a941-9fbc91154da4")
 		)
 		(fp_line
-			(start 1.7 1.5)
-			(end -1.7 1.5)
+			(start 1.6 1.4)
+			(end -1.6 1.4)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Cmts.User")
+			(uuid "ea21db23-84f9-4641-bf07-d8452b2aa3c1")
+		)
+		(fp_line
+			(start -1.7 -1.5)
+			(end 1.7 -1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "231f361a-4739-4b03-8950-5723f9a04370")
-		)
-		(fp_line
-			(start 1.7 -1.5)
-			(end 1.7 1.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Edge.Cuts")
-			(uuid "fcd99f92-e1bf-4cf0-bd45-c2ecd66940ac")
+			(uuid "2cecd7e6-6251-4bbf-99c5-33bbf70d597f")
 		)
 		(fp_line
 			(start -1.7 1.5)
@@ -16158,17 +16148,27 @@
 			(uuid "144aa283-d480-43bb-99ff-faca484bae0a")
 		)
 		(fp_line
-			(start -1.7 -1.5)
-			(end 1.7 -1.5)
+			(start 1.7 -1.5)
+			(end 1.7 1.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Edge.Cuts")
-			(uuid "2cecd7e6-6251-4bbf-99c5-33bbf70d597f")
+			(uuid "fcd99f92-e1bf-4cf0-bd45-c2ecd66940ac")
+		)
+		(fp_line
+			(start 1.7 1.5)
+			(end -1.7 1.5)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Edge.Cuts")
+			(uuid "231f361a-4739-4b03-8950-5723f9a04370")
 		)
 		(pad "1" smd rect
-			(at -2.55 -0.75 180)
+			(at -2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 50 "GND Left")
@@ -16177,7 +16177,7 @@
 			(uuid "a22a7931-8ebe-47d0-b266-15014e24b1a3")
 		)
 		(pad "2" smd rect
-			(at -2.55 0.75 180)
+			(at -2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 72 "Net-(LED22-DOUT)")
@@ -16186,7 +16186,7 @@
 			(uuid "e8ce3d0a-db7b-4800-97f3-e057120d7c4b")
 		)
 		(pad "3" smd roundrect
-			(at 2.55 0.75 180)
+			(at 2.55 0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0)
@@ -16198,7 +16198,7 @@
 			(uuid "214d19f5-9190-4228-aa6d-ec80a4c3e006")
 		)
 		(pad "4" smd rect
-			(at 2.55 -0.75 180)
+			(at 2.55 -0.75)
 			(size 1.7 0.82)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(net 71 "Net-(LED21-DOUT)")
@@ -19206,7 +19206,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D23"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "f6bb2f3c-7347-479b-a002-8ffb6e16d098")
 			(effects
@@ -19218,7 +19218,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "825fa8e0-497e-4737-82a6-c6e9aae9cb72")
@@ -19231,7 +19231,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9baad411-8f04-4c64-b4d0-7c5659c12a0e")
@@ -19243,7 +19243,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f547f256-f78d-447e-91df-e080ac505b94")
@@ -19255,7 +19255,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d592b756-eedd-45e0-841e-1d8d7bb4c35e")
@@ -19434,7 +19434,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D6"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "f497a303-2ec0-468b-aff7-3833daed6d87")
 			(effects
@@ -19446,7 +19446,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a0d6e7f9-2b75-4f40-aa50-5ccdfe360717")
@@ -19459,7 +19459,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e690eed1-2424-45ba-932a-1ebe4450aa9b")
@@ -19471,7 +19471,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75742607-f5da-479d-b278-9a92309caaa7")
@@ -19483,7 +19483,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95d8694e-104f-4bb7-831b-bd7ae6855166")
@@ -19662,7 +19662,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D19"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "50b1cb86-42d3-4752-864a-8ada007bdbe4")
 			(effects
@@ -19674,7 +19674,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0b23c98b-26b5-4ae8-a895-7f64cbcf878d")
@@ -19687,7 +19687,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a47b527-a094-4cb8-b903-1ce1a05a45d5")
@@ -19699,7 +19699,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3b4002f5-dadf-435e-b29a-15bebfb6f7fe")
@@ -19711,7 +19711,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96e61990-db70-41f1-acf9-ca7ca8c5f620")
@@ -19890,7 +19890,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D12"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "a583f4eb-eb8a-4ba9-9cc0-0eb9370b312f")
 			(effects
@@ -19902,7 +19902,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b4c25b3f-e6f8-4e56-a591-8ac1cda4fab5")
@@ -19915,7 +19915,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6fa4ef00-420e-4ad1-a0b5-99740a716ae5")
@@ -19927,7 +19927,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cc6279dc-f77e-46ba-aa73-cba9623cc7f1")
@@ -19939,7 +19939,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1a77f516-ab9c-4511-b7b2-4026b34c044f")
@@ -20118,7 +20118,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D13"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "dbcec47d-3787-4831-a90c-1cf3c27c6027")
 			(effects
@@ -20130,7 +20130,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "93ffe1bf-c07e-493f-bf9b-bfcee942ee6c")
@@ -20143,7 +20143,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ae0b293-0a8e-4f5c-bd3e-a3d22014a3d3")
@@ -20155,7 +20155,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b3275471-49e5-488b-bca6-2a16a8c0d83f")
@@ -20167,7 +20167,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c448027b-147f-43cd-8fb5-74ac3353ed70")
@@ -20346,7 +20346,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D22"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "36322565-f9df-4360-9052-6672014c4047")
 			(effects
@@ -20358,7 +20358,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0794e02a-c03c-46ea-9abd-8d0c07383f9c")
@@ -20371,7 +20371,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bbe527cb-a9e8-443c-9969-b3d97ebc16e2")
@@ -20383,7 +20383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "437b0477-4595-4f31-9709-d2a1812d3f3f")
@@ -20395,7 +20395,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3df79bb3-0d75-4330-8836-aa441b7230b6")
@@ -20574,7 +20574,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D7"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "a485f744-3524-40b6-b22a-fe267aa4898d")
 			(effects
@@ -20586,7 +20586,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fd298520-e39a-4afc-a31b-3b77862596b0")
@@ -20599,7 +20599,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "923116bc-b064-405c-9ecc-037fdb644f3b")
@@ -20611,7 +20611,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "924fb7ef-f95f-4470-be3a-3c097959cf98")
@@ -20623,7 +20623,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "23f92d72-c105-4980-b4a7-9461312cb68b")
@@ -20802,7 +20802,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D21"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "06f04a7c-4481-4cd1-8291-90c737fdf9d7")
 			(effects
@@ -20814,7 +20814,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea871de3-0f83-4a39-b1ad-70e92df3a175")
@@ -20827,7 +20827,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d21f04f6-650d-434c-9242-e9a5b3f20ee0")
@@ -20839,7 +20839,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6eef865d-97f2-46cb-a1dc-c2c3fc143c79")
@@ -20851,7 +20851,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4155f620-3fa6-4790-a212-82aeb49ef188")
@@ -21030,7 +21030,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D5"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "d67a87ff-5d0e-49f4-8100-4533c96ac494")
 			(effects
@@ -21042,7 +21042,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "88e240dd-d66e-4317-9af2-41a2b536c5fa")
@@ -21055,7 +21055,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "48b87dd3-09dc-4d05-9f4c-2b1030f955ab")
@@ -21067,7 +21067,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fed03e8f-633f-4c38-82a9-08d29c7eb425")
@@ -21079,7 +21079,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "116e597c-4d53-44e8-be01-795fb0f57c90")
@@ -21258,7 +21258,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D4"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "f7df7b54-565d-4ce5-9c77-3297815f2a39")
 			(effects
@@ -21270,7 +21270,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "954f3692-3093-4ec2-bd60-d3a0fe903697")
@@ -21283,7 +21283,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "160d80ff-244f-471e-a2b4-8de22a46d7cd")
@@ -21295,7 +21295,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "996b4630-f0a8-470b-a1d3-d280bf69a3d0")
@@ -21307,7 +21307,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dc67eb6c-68ed-4ad4-8d4b-ddc97dbb6b9c")
@@ -21486,7 +21486,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D1"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "7f081bf1-2211-4485-ae22-6e14cacd0351")
 			(effects
@@ -21498,7 +21498,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f223eeeb-6b62-4bab-837e-fcdff7627ddd")
@@ -21511,7 +21511,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bec92afa-e762-4880-a540-90d97e57e66d")
@@ -21523,7 +21523,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bcc64bce-5a90-41ad-a07d-7272d043a1e8")
@@ -21535,7 +21535,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c6ba2e61-6574-45e5-8d6f-7da8bd4f1e31")
@@ -21714,7 +21714,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D14"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "b67a72a9-5445-41f9-84fc-dada9ba5e437")
 			(effects
@@ -21726,7 +21726,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "14dfa9ca-44d3-4ec0-a760-4ddc26b38c97")
@@ -21739,7 +21739,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1fc93a0e-d0e5-4bbf-a1ba-fd654cc7de81")
@@ -21751,7 +21751,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2c69545-5c44-4cc6-98aa-c88645c9a891")
@@ -21763,7 +21763,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9dcf78ad-cffc-49f7-9e62-97b5db3804bd")
@@ -21942,7 +21942,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D3"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "62c87e58-1979-4bde-99eb-f88a3f404615")
 			(effects
@@ -21954,7 +21954,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d9b4f9e4-c5fd-4942-97e7-707b769f6402")
@@ -21967,7 +21967,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "870008ee-49f6-4566-8ed7-5a879db1cfe8")
@@ -21979,7 +21979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0f79d1f7-abea-4e82-a0b8-4866ddf12bb2")
@@ -21991,7 +21991,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f264cd8a-ab14-4ae6-9ca7-3963853a7d41")
@@ -22170,7 +22170,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D16"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "33eeb842-4a77-42a0-8635-fd7a53d50ef2")
 			(effects
@@ -22182,7 +22182,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0816e2c8-cbd7-40e0-aa7a-57b031ab59f3")
@@ -22195,7 +22195,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e95b038-7c7f-44d4-85a1-d48f73851b56")
@@ -22207,7 +22207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "34ab3ac9-4121-4501-a668-59197fb19aec")
@@ -22219,7 +22219,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96731a1a-1990-456e-a140-f40fd6e45ce9")
@@ -22398,7 +22398,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D8"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "af36e644-ab57-4906-95f3-d144c44ac1fe")
 			(effects
@@ -22410,7 +22410,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "dd900704-75eb-4070-81e3-bc8d4512aed4")
@@ -22423,7 +22423,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "31db934b-e3e7-4a9e-a0ea-cf8ab2d9ca3f")
@@ -22435,7 +22435,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25f1fae2-002a-463f-b1ff-31d22fa3bdbb")
@@ -22447,7 +22447,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f260fb7-cb8c-489a-bd4a-9ab19f250464")
@@ -22626,7 +22626,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D10"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "51d2fed8-bca8-4862-8176-872382aa3aed")
 			(effects
@@ -22638,7 +22638,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "180397ba-6e0e-4b8c-9978-f7da6736c38b")
@@ -22651,7 +22651,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b4b804a3-0770-4e46-ab0f-a0b38976e0d2")
@@ -22663,7 +22663,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "23c91177-0f31-4906-9fef-dfd61029cc7c")
@@ -22675,7 +22675,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7058a36d-8269-4ea8-929b-74c37020b5d7")
@@ -22854,7 +22854,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D24"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "8cb3fe71-9c3c-40e5-9e01-ae2037a9649c")
 			(effects
@@ -22866,7 +22866,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "57a8b1fc-d427-496c-bcdd-f5e6f7368b16")
@@ -22879,7 +22879,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "df8c9b06-c78b-49cd-a6e5-e9e4507b2901")
@@ -22891,7 +22891,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c8349fa2-6af1-4ddd-9e27-e0f73398e897")
@@ -22903,7 +22903,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d5694110-fe99-4012-ad47-c7a3908e1921")
@@ -23082,7 +23082,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D17"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "22f0130d-204f-4d29-9144-c24549553ab0")
 			(effects
@@ -23094,7 +23094,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1f9b6aec-652e-4711-93c0-57d0f2cc108e")
@@ -23107,7 +23107,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eb6337bf-3fa9-464c-9ce0-ad21711253d0")
@@ -23119,7 +23119,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c0f1c2cb-d1ca-4a09-92e9-a58285c0e054")
@@ -23131,7 +23131,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "af6009b3-9ad4-41c0-b141-3af7b1e5aad6")
@@ -23310,7 +23310,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D11"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "7d68df44-7337-4ad5-8533-1face6f3a20f")
 			(effects
@@ -23322,7 +23322,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "73f04df7-3839-4fed-868b-9907744875bb")
@@ -23335,7 +23335,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b6848d96-9bb7-4b10-93c7-612af1e655a8")
@@ -23347,7 +23347,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f1c93d39-f12f-48af-898d-fc3b38dcf44a")
@@ -23359,7 +23359,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc8bb2f0-778a-4b50-9433-7d62d941a466")
@@ -23538,7 +23538,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D20"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "f2b57d14-63de-4235-8038-a45bdd20c3b3")
 			(effects
@@ -23550,7 +23550,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cc7603f0-8c73-43f8-bbba-5284aaad560d")
@@ -23563,7 +23563,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2bacadac-57ed-4e23-9bca-56f7400f6b43")
@@ -23575,7 +23575,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f0229d75-78ba-41d5-bab6-5f350438859d")
@@ -23587,7 +23587,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "00d5b5ed-8f48-4294-a406-d96eeb725cfa")
@@ -23766,7 +23766,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D25"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "1e403a68-bc08-4737-9ac7-9045b799afb6")
 			(effects
@@ -23778,7 +23778,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1dd3f896-f2e0-4c10-976f-3db4b2d05494")
@@ -23791,7 +23791,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e322232e-5dc5-4b42-8c93-d5993c424574")
@@ -23803,7 +23803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ebe3dfc6-5583-453f-86a1-fdb456783c23")
@@ -23815,7 +23815,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "144b683d-c492-4360-a4bc-837f36d80d10")
@@ -23994,7 +23994,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D18"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "64cf24cc-476b-49b8-a291-3967e41f20c5")
 			(effects
@@ -24006,7 +24006,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c6f5ed1f-ea5f-459b-8bf7-c182f738cbb4")
@@ -24019,7 +24019,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "33c6382e-5be4-47a6-94d8-713f4c2ae4fd")
@@ -24031,7 +24031,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d91c0137-1adf-4e8c-8c73-ba537fbab7e8")
@@ -24043,7 +24043,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c7cf36cb-5b1e-4f5f-8904-43d984de14af")
@@ -24222,7 +24222,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D2"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "14759e3f-5400-4589-91b1-b192d164d18e")
 			(effects
@@ -24234,7 +24234,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "22ffce50-5064-4090-b7ad-767bac80500c")
@@ -24247,7 +24247,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b39a8ba6-4f07-49e2-9516-d39f56811580")
@@ -24259,7 +24259,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5338d1ea-a89e-474b-8f32-baede228a7ab")
@@ -24271,7 +24271,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7d219907-4c2f-4f75-a94a-ddf63ee6c052")
@@ -24450,7 +24450,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D9"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "14d36d3e-1f72-41f2-b672-87a1611b032e")
 			(effects
@@ -24462,7 +24462,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8815e5e7-17ec-401b-97bc-5bff687d8860")
@@ -24475,7 +24475,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9f0bbe73-a3b5-42e2-83f4-f1c7901d2788")
@@ -24487,7 +24487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "38d734bc-2383-43c7-8c1e-bd229f87f1b8")
@@ -24499,7 +24499,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cb2f3de5-1897-4697-bdf8-1bf1d8483826")
@@ -24678,7 +24678,7 @@
 		(descr "Resitance 3 pas")
 		(tags "R")
 		(property "Reference" "D15"
-			(at 4 0 360)
+			(at 4 0 0)
 			(layer "B.SilkS")
 			(uuid "8ff7230c-aa4c-4703-9686-f2d2987f4e60")
 			(effects
@@ -24690,7 +24690,7 @@
 			)
 		)
 		(property "Value" "Diode_1N4148-SOD123"
-			(at -0.6 0 360)
+			(at -0.6 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "237e8722-2638-4b38-a9de-1257c0b99901")
@@ -24703,7 +24703,7 @@
 			)
 		)
 		(property "Footprint" "pjimenez:Diode_1N4148-SOD123"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7cc6bbb9-635d-4106-ba9b-cdc1cc3de8a1")
@@ -24715,7 +24715,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a2fc4cd2-1b1b-4cd4-9c02-156d68e77a39")
@@ -24727,7 +24727,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "95933584-2fa9-43e3-b992-7bd1b678756e")
