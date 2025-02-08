@@ -204,7 +204,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "369cf039-7e96-43c2-9396-a2e90c3e64b8")
 	)
-	(model "${PJIMENEZ}/pjimenez.models/D_SOD-123 Soldered.step"
+	(model "${PJIMENEZ}/pjimenez.models/D_SOD-123.step"
 		(offset
 			(xyz 0 0 0)
 		)

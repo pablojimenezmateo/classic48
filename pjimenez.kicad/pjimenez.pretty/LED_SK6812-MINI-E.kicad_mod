@@ -173,7 +173,7 @@
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "75f1d99f-27ba-4aa4-99b8-86eb9ef32176")
 	)
-	(model "${PJIMENEZ}/pjimenez.models/YS-SK6812MINI-E Soldered.step"
+	(model "${PJIMENEZ}/pjimenez.models/YS-SK6812MINI-E.step"
 		(offset
 			(xyz 0 0 -1.9)
 		)
