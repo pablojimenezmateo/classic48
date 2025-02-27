@@ -8748,7 +8748,7 @@
 	(footprint "pjimenez:RP2040_Pro_Micro"
 		(layer "F.Cu")
 		(uuid "3b3d68e4-55db-49aa-9619-9fe98cfc49ea")
-		(at 420.385 154.915)
+		(at 166.49 112.58)
 		(property "Reference" "U3"
 			(at 0 -1.27 0)
 			(layer "F.SilkS")
@@ -33121,7 +33121,7 @@
 	(footprint "pjimenez:TRRS_PJ-320A"
 		(layer "F.Cu")
 		(uuid "e0b53bd7-d301-4107-8f56-6089d306ba72")
-		(at 388.6 202.0875)
+		(at 44 97.688)
 		(property "Reference" "U4"
 			(at 0 14.2 0)
 			(layer "Dwgs.User")
