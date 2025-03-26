@@ -341,7 +341,7 @@
 			(justify right mirror)
 		)
 	)
-	(fp_text user "GP15"
+	(fp_text user "GP13"
 		(at -2.54 16.51 -90)
 		(unlocked yes)
 		(layer "B.SilkS")
@@ -467,7 +467,7 @@
 			(justify right mirror)
 		)
 	)
-	(fp_text user "GP13"
+	(fp_text user "GP15"
 		(at 2.54 16.51 -90)
 		(unlocked yes)
 		(layer "B.SilkS")
@@ -481,7 +481,7 @@
 			(justify right mirror)
 		)
 	)
-	(fp_text user "GP16"
+	(fp_text user "GP12"
 		(at -5.08 16.51 -90)
 		(unlocked yes)
 		(layer "B.SilkS")
@@ -593,7 +593,7 @@
 			(justify right mirror)
 		)
 	)
-	(fp_text user "GP12"
+	(fp_text user "GP16"
 		(at 5.08 16.51 -90)
 		(unlocked yes)
 		(layer "B.SilkS")
