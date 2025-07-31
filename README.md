@@ -30,5 +30,8 @@ Grand total: **196.35 €**
 2. Go to KiCad, `Preferences` -> `Manage Footprint Libraries`, add new row with name `pjimenez` and path to `pjimenez.kicad/pjimenez.pretty`
 3. Go to KiCad, `Preferences` -> `Manage Symbol Libraries`, add new row with name `pjimenez` and path to `pjimenez.kicad/pjimenez.kicad_sym`
 
+# Firmware
+Checkout the [classic48-keymap repository](https://github.com/pablojimenezmateo/classic48-keymap)
+
 # License
 This project is licensed under Creative commons Attribution 3.0 Unported, more info : http://creativecommons.org/licenses/by/3.0/deed.en_US
